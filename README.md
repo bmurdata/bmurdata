@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Brian Murphy, developer, civic tech and data enthusiast 
 
 <!--
 **bmurdata/bmurdata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
