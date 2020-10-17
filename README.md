@@ -2,14 +2,25 @@
 
 # My major projects
 
-## Web Scraping and Web Deployment
+## Web Scraping with Web Accessible Deployment
 NYC Gov Job Search: 
 Website: http://www.murphy-dev.com  
 
 Scraper Repo: https://github.com/bmurdata/NYCGovJobSearch  
 Website Repo: https://github.com/bmurdata/GovJobSearch_Web  
+### Tools: 
+  Python, Selenium, Flask, with a MySQL database.  
 ### About  
   A Python Selenium scraper for NYC Gov jobs open to the public, with a Flask website implementation to show and search the data. Under continous updates and improvements! The scraper was designed to be independant of the website, and can be used without it.
+  
+## Website Design and Implementation  
+Finest Fallen Basketballs  
+Website: Under Development!  
+### Tools: 
+  Adobe XD, Heroku(prototyping), Bootstrap 4  
+### About
+   Designed and prototyped the website for Finest Fallen Basketballs, an organization dedicated to remembering fallen Law Enforcement members of service through community involvement. Website will showcase community engagement and positive impact. 
+
 ## Portfolio website
 
 Website: https://bmurphyportfolio.netlify.app/
@@ -22,9 +33,10 @@ Buy Her Drink- MVP
 
 Website: http://www.bmurphyapi.com/  
 Repo: https://github.com/bmurdata/BuyHerDrink/tree/master/database/backendAPI
-
+## Tools  
+  Python, Flask, Flask-Restful, Flask-jwt extended, Postman(for testing), SQLAlchemy, and MySQL  
 ### About  
-  An MVP of an API build for the Buy Her Drink Dating and mingling app. Created as part of a partnership with https://github.com/AdinanAries who worked on the frontend.
+  An MVP of an API build for the Buy Her Drink Dating and mingling app. Created as part of a partnership with https://github.com/AdinanAries who worked on the frontend. Users can login, logout, create and edit posts, and view user information. JSON Web Tokens  is used to authenticate users and control access.
 
 <!--
 **bmurdata/bmurdata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
