@@ -20,7 +20,7 @@ Website Repo: https://github.com/bmurdata/GovJobSearch_Web
   
 ## Website Design and Implementation  
 Finest Fallen Basketballs  
-Website: Under Development!  
+Initial Website: https://finestfallenbasketballs.herokuapp.com/index.html!  
 ### Tools: 
   Adobe XD, Heroku(prototyping), Bootstrap 4  
 ### About
@@ -28,8 +28,8 @@ Website: Under Development!
 
 ## Portfolio website
 
-Website: https://bmurphyportfolio.netlify.app/
-Repo:https://github.com/bmurdata/CustomScrimbaPortfolio
+Website: https://bmurphyportfolio.netlify.app/  
+Repo:https://github.com/bmurdata/CustomScrimbaPortfolio  
 
 ### About  
   A portfolio website made to learn responsive design, as well as hosting basics.
