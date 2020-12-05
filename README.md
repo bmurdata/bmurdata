@@ -1,10 +1,10 @@
 ### Hi, I'm Brian Murphy, developer, civic tech and data enthusiast 
 
-  I am a Staff Analyst with the NYPD, providing data analysis and technical expertise for high ranking supervisors. This includes using MS Access to build databases for scholarship applicant tracking, and creating new data entry forms with a data-focused mindset.
+  I am a Staff Analyst with the NYPD, providing data analysis and technical expertise for high ranking supervisors. I use VBA and MS Access to build databases for scholarship applicant tracking. I also create new data entry forms with a data-focused mindset.
 
   I have full-stack web development experience with Python Flask and MySQL databases, having built a website to assist others in finding NYC Government jobs, using Python Selenium web scraping for data gathering. I have also built a sample API as part of a team for an upcoming social app. Both sites are hosted on Google Cloud Platform, and I am using HerokuApp for designing and building a website for a non-profit focused on community outreach.
 
-  I am a certified developer in building Rasa machine learning virtual assistants, and MTA SQL Database fundamentals.  
+  I am a certified Rasa developer in machine learning virtual assistants, and MTA SQL Database fundamentals.  
 # My major projects
 
 ## Web Scraping with Web Accessible Deployment
@@ -24,15 +24,7 @@ Initial Website: https://finestfallenbasketballs.herokuapp.com/index.html!
 ### Tools: 
   Adobe XD, Heroku(prototyping), Bootstrap 4  
 ### About
-   Designed and prototyped the website for Finest Fallen Basketballs, an organization dedicated to remembering fallen Law Enforcement members of service through community involvement. Website will showcase community engagement and positive impact. 
-
-## Portfolio website
-
-Website: https://bmurphyportfolio.netlify.app/  
-Repo:https://github.com/bmurdata/CustomScrimbaPortfolio  
-
-### About  
-  A portfolio website made to learn responsive design, as well as hosting basics.
+   Designed and prototyped the website for Finest Fallen Basketballs, an organization dedicated to remembering fallen Law Enforcement personnel through community outreach. Website will showcase community engagement and positive impact. 
 ## API Building  
 Buy Her Drink- MVP 
 
@@ -41,7 +33,15 @@ Repo: https://github.com/bmurdata/BuyHerDrink/tree/master/database/backendAPI
 ## Tools  
   Python, Flask, Flask-Restful, Flask-jwt extended, Postman(for testing), SQLAlchemy, and MySQL  
 ### About  
-  An MVP of an API build for the Buy Her Drink Dating and mingling app. Created as part of a partnership with https://github.com/AdinanAries who worked on the frontend. Users can login, logout, create and edit posts, and view user information. JSON Web Tokens  is used to authenticate users and control access.
+  An MVP of an API build for the Buy Her Drink Dating and mingling app. Created as part of a partnership with https://github.com/AdinanAries who worked on the frontend. Users can login, logout, create and edit posts, and view user information. JSON Web Tokens  is used to authenticate users and control access.  
+
+## Portfolio website
+
+Website: https://bmurphyportfolio.netlify.app/  
+Repo:https://github.com/bmurdata/CustomScrimbaPortfolio  
+
+### About  
+  A portfolio website made to learn responsive design, as well as hosting basics.
 
 <!--
 **bmurdata/bmurdata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
