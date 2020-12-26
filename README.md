@@ -1,6 +1,8 @@
 ### Hi, I'm Brian Murphy, developer, civic tech and data enthusiast 
 
-  I am a Staff Analyst with the NYPD, providing data analysis and technical expertise for high ranking supervisors. I use VBA and MS Access to build databases for scholarship applicant tracking. I also create new data entry forms with a data-focused mindset.  
+  I am a Staff Analyst with the NYPD, providing data analysis and technical expertise for high ranking supervisors. I work on report generation, process improvement, and member outreach, in a unit focused on career enhancement. Currently serve as the Information Technology Officer for a NYPD fraternal organization.
+
+Full stack web development experience using Python Flask and MySQL in Google Cloud deployments, building a data pipeline using Python Selenium web scraping, and API creation. I am currently working with a community-based non-profit to create their website.  
 ## Skills
 * Python
 * Web scraping with Selenium
