@@ -1,10 +1,17 @@
 ### Hi, I'm Brian Murphy, developer, civic tech and data enthusiast 
 
-  I am a Staff Analyst with the NYPD, providing data analysis and technical expertise for high ranking supervisors. I use VBA and MS Access to build databases for scholarship applicant tracking. I also create new data entry forms with a data-focused mindset.
-
-  I have full-stack web development experience with Python Flask and MySQL databases, having built a website to assist others in finding NYC Government jobs, using Python Selenium web scraping for data gathering. I have also built a sample API as part of a team for an upcoming social app. Both sites are hosted on Google Cloud Platform, and I am using HerokuApp for designing and building a website for a non-profit focused on community outreach.
-
-  I am a certified Rasa developer in machine learning virtual assistants, and MTA SQL Database fundamentals.  
+  I am a Staff Analyst with the NYPD, providing data analysis and technical expertise for high ranking supervisors. I use VBA and MS Access to build databases for scholarship applicant tracking. I also create new data entry forms with a data-focused mindset.  
+## Skills
+* Python
+* Web scraping with Selenium
+* SQL, T-SQL
+* SQL Relational Database Management Systems
+    * MySQL
+    * Maria DB
+    * SQL Server
+* Google Cloud Platform
+* Certified Rasa Developer
+* Certified in MTA Database Fundamentals   
 # My major projects
 
 ## Web Scraping with Web Accessible Deployment
