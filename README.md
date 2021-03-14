@@ -2,7 +2,7 @@
 
   I am a Staff Analyst with the NYPD, providing data analysis and technical expertise for high ranking supervisors. I work on report generation, process improvement, and member outreach, in a unit focused on career enhancement. Currently serve as the Information Technology Officer for a NYPD fraternal organization.
 
-Full stack web development experience using Python Flask and MySQL in Google Cloud deployments, building a data pipeline using Python Selenium web scraping, and API creation. I am currently working with a community-based non-profit to create their website.  
+Full stack web development experience using Python Flask and MySQL in Google Cloud deployments, building a data pipeline using Python Selenium web scraping, and API creation. I am currently working with a community-based non-profit to create their website. I am also a certified Azure Developer, having built a website during the NYDFS Techsprint.  
 ## Skills
 * Python
 * Web scraping with Selenium
@@ -11,7 +11,8 @@ Full stack web development experience using Python Flask and MySQL in Google Clo
     * MySQL
     * Maria DB
     * SQL Server
-* Google Cloud Platform
+* Google Cloud Platform  
+* Microsoft Certified Azure Developer Associate
 * Certified Rasa Developer
 * Certified in MTA Database Fundamentals   
 # My major projects
