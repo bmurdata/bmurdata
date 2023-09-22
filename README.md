@@ -1,6 +1,6 @@
 ### Hi, I'm Brian Murphy, developer, civic tech and data enthusiast 
 
-  I am a Associate Staff Analyst with the MTA,New York City Transit. I develop applications, generate visualizations, train staff, and provide other professional technical support.
+  I am an Associate Staff Analyst with the MTA,New York City Transit. I develop applications, generate visualizations, train staff, and provide other professional technical support.
   
   I've previously worked in the NYPD, providing data analysis and technical expertise for high ranking supervisors. I work on report generation, process improvement, and member outreach. I served as the Information Technology Officer for a NYPD fraternal organization.
 
