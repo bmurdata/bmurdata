@@ -1,6 +1,8 @@
 ### Hi, I'm Brian Murphy, developer, civic tech and data enthusiast 
 
-  I am a Staff Analyst with the NYPD, providing data analysis and technical expertise for high ranking supervisors. I work on report generation, process improvement, and member outreach. I serve as the Information Technology Officer for a NYPD fraternal organization.
+  I am a Associate Staff Analyst with the MTA,New York City Transit. I develop applications, generate visualizations, train staff, and provide other professional technical support.
+  
+  I've previously worked in the NYPD, providing data analysis and technical expertise for high ranking supervisors. I work on report generation, process improvement, and member outreach. I served as the Information Technology Officer for a NYPD fraternal organization.
 
 Full stack web development experience using Python Flask and MySQL in Google Cloud deployments, building a data pipeline using Python Selenium web scraping, and API creation. I am currently working with a community-based non-profit to create their website. I am also a certified Azure Developer, having built a ASP .Net Core website during the NYDFS Techsprint.  
 ## Skills
