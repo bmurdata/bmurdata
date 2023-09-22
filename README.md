@@ -6,8 +6,8 @@
 
 Full stack web development experience using Python Flask and MySQL in Google Cloud deployments, building a data pipeline using Python Selenium web scraping, and API creation. I am currently working with a community-based non-profit to create their website. I am also a certified Azure Developer, having built a ASP .Net Core website during the NYDFS Techsprint.  
 ## Skills
-* Python
-* Web scraping with Selenium
+* Python-pandas, Selenium, Azure tools,pypdf
+* Power BI, Power Automate, Power Apps
 * SQL, T-SQL
 * SQL Relational Database Management Systems
     * MySQL
@@ -16,7 +16,7 @@ Full stack web development experience using Python Flask and MySQL in Google Clo
 * Google Cloud Platform  
 * Microsoft Certified Azure Developer Associate
 * Certified Rasa Developer
-* Certified in MTA Database Fundamentals   
+* Certified in MTA Database Fundamentals
 # My major projects
 
 ## Web Scraping with Web Accessible Deployment
